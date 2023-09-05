@@ -16,4 +16,4 @@ Meu nome é Michée, mas muitos me chamam de *Mike*, sou um entusiasta da progra
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![postegreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit)
 
-> Mais arriscado do que mudr é continuar fazendo a mesma coisa 
+> Mais arriscado do que mudr é continuar fazendo a mesma coisa :ok_hand:
