@@ -1,4 +1,4 @@
-# Olá pessoal! || Hi people 👋
+# Olá pessoal! || *Hi people* 👋
 
 ![Michee Celestin](https://github.com/Michee27/Michee27/assets/140012117/6d0a2f9d-7278-4a36-910c-f785e63e19a9)
 
@@ -10,7 +10,7 @@ Meu nome é Michée, mas muitos me chamam de *Mike*, um entusiasta da tecnologia
 
 🚀🖥️ #CodeLife #JavaScriptNinja
 
-# Sobre mim || About me :man:
+# Sobre mim || *About me* :man:
 
 Cristão e músico nas horas vagas :notes: :stuck_out_tongue_winking_eye:
 
@@ -31,11 +31,11 @@ Apaixonado por transformar linhas de código em soluções inovadoras. Minha jor
 
 
 
-## :point_right: Para me encontrar || Find me
+## :point_right: Para me encontrar || *Find me*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheecelestin/)
 [![whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997768422)
 
-## :computer: Habilidades || Hard Skills
+## :computer: Habilidades || *Hard Skills*
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
