@@ -1,4 +1,8 @@
 # Olá pessoal! 👋
+
+![Site de Comércio Varejista Tecnologia e Gaming Gradiente Verde-azulado Branco Preto (1366 × 400 px)](https://github.com/Michee27/Michee27/assets/140012117/4cc19035-70ad-4560-a661-9243600c37db)
+
+
 Meu nome é Michée, mas muitos me chamam de *Mike*, sou um entusiasta da programação e **desenvolvedor de software** apaixonado por transformar linhas de código em soluções inovadoras. Minha jornada no mundo da tecnologia gira em torno do ecossistema JavaScript, onde tenho explorado as profundezas do Node.js, construí aplicativos robustos com o Express, e criei bases de dados eficientes com SQL e PostgreSQL. Minha busca constante por aprendizado e aprimoramento me impulsiona a enfrentar desafios complexos, sempre buscando maneiras elegantes de resolver problemas. **Seja bem-vindo** ao meu perfil, onde compartilho meu amor pelo código e minha dedicação a projetos que impulsionam a experiência digital. 
 
 🚀🖥️ #CodeLife #JavaScriptNinja
