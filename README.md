@@ -44,3 +44,5 @@ Apaixonado por transformar linhas de código em soluções inovadoras. Minha jor
 ![postegreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit)
 
 > Mais arriscado do que mudr é continuar fazendo a mesma coisa :ok_hand:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michee27&langs_count=8)
