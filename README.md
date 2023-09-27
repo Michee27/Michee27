@@ -1,4 +1,4 @@
-# Olá pessoal, testtteeeeeeeee! || *Hi people* 👋
+# Olá pessoal! || *Hi people* 👋
 
 ![Michee Celestin](https://github.com/Michee27/Michee27/assets/140012117/6d0a2f9d-7278-4a36-910c-f785e63e19a9)
 
