@@ -10,7 +10,7 @@ Meu nome é Michée, mas muitos me chamam de *Mike*, um entusiasta da tecnologia
 
 🚀🖥️ #CodeLife #JavaScriptNinja
 
-# Sobre mim || *About me* :man:
+# Sobre mim Michée || *About me* :man:
 
 Cristão e músico nas horas vagas :notes: :stuck_out_tongue_winking_eye:
 
