@@ -4,7 +4,7 @@
 
 
 
-Meu nome é Michée, mas muitos me chamam de *Mike*, um entusiasta da tecnologia embarcando em uma empolgante transição de carreira, de engenharia de controle e automação para **desenvolvedor de software**. Hoje o objrtivo principal é trazer minhas competências, ideias e ousadias da área de engenharia de controle e automação para a área de desenvolvimento de software, buscando sempre novas oportunidades para aprender, crescer e explorar o vasto universo da tecnologia.
+Meu nome é Michée, mas muitos me chamam de *Mike*, um entusiasta da tecnologia embarcando em uma empolgante transição de carreira, de engenharia de controle e automação para **desenvolvedor de software**. Hoje o objetivo principal é trazer minhas competências, ideias e ousadias da área de engenharia de controle e automação para a área de desenvolvimento de software, buscando sempre novas oportunidades para aprender, crescer e explorar o vasto universo da tecnologia.
 
 > I'm Michée, but many call me *Mike*, a technology enthusiast embarking on an exciting career transition from control and automation engineering to **software development**. Today, my primary goal is to bring my skills, ideas, and boldness from the field of control and automation engineering into the realm of software development, always seeking new opportunities to learn, grow, and explore the vast universe of technology.
 
