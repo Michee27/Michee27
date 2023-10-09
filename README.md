@@ -47,3 +47,5 @@ Apaixonado por transformar linhas de código em soluções inovadoras. Minha jor
 
 > Mais arriscado do que mudr é continuar fazendo a mesma coisa :ok_hand:
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michee27&show_icons=true&theme=onedark)
