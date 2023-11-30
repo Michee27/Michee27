@@ -52,3 +52,5 @@ Passionate about turning lines of code into innovative solutions. My journey in 
 > *"Mais arriscado do que mudar é continuar fazendo a mesma coisa"*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michee27&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michee27&hide_progress=true)
