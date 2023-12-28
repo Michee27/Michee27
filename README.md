@@ -2,7 +2,6 @@
 
 ![Michee Celestin](https://github.com/Michee27/Michee27/assets/140012117/6d0a2f9d-7278-4a36-910c-f785e63e19a9)
 
-
 I'm Michée, but many call me *Mike*, a technology enthusiast embarking on an exciting career transition from control and automation engineering to **software development**. Today, my primary goal is to bring my skills, ideas, and boldness from the field of control and automation engineering into the realm of software development, always seeking new opportunities to learn, grow, and explore the vast universe of technology.
 
 
