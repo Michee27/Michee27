@@ -12,7 +12,6 @@ I'm Michée, but many call me *Mike*, a technology enthusiast embarking on an ex
 
 ## About me || *Sobre mim*  :man:
 
-
 Christian and musician in my spare time* :notes: :stuck_out_tongue_winking_eye:
 
 Of foreign origin, I was born in Haiti and moved shortly after completing high school to Brazil, where I pursued all my higher education* :earth_americas:
@@ -30,7 +29,6 @@ Passionate about turning lines of code into innovative solutions. My journey in 
 > *Apaixonado por transformar linhas de código em soluções inovadoras. Minha jornada no mundo da tecnologia gira em torno do ecossistema JavaScript, Node.js, construindo aplicativos robustos com o Express, e criei bases de dados eficientes com SQL e PostgreSQL. Minha busca constante por aprendizado e aprimoramento me impulsiona a enfrentar desafios complexos, sempre buscando maneiras elegantes de resolver problemas.*
 
 > ***Seja bem-vindo** ao meu perfil, onde compartilho meu amor pelo código e minha dedicação a projetos que impulsionam a experiência digital.*
-
 
 
 ## :point_right:  Find me || *Para me encontrar*
